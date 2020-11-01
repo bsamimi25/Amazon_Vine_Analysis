@@ -16,7 +16,7 @@ This project was utilizing Amazons RDS and uploading that data into PostgreSQL t
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 - Vine: 41.62%
-Not-Vine: 53.02%
+- Not-Vine: 53.02%
 
 ## Summary 
 In conclusion, for the Sports Items in the Vine Program there the test is inconclusive since our number of total reviews for Vine is significantly lower than Not-Vine Reviews plays a major role in this analysis. But going on what this data is telling me I would say that there is negative bias since it is about 12 percentage points lower than non-Vine revewis. We would need to have way equal or signtly less Vine reviews to non-vine reviews to gather a more insightful answer to this problem. We could use ANOVA testing but of course would still need a larger sample to use this statistical test. Another way is that we could randomly select reviews on both groups then determine their percentages and see if there is a positive bias in the Vine Program reviews.
